@@ -11,7 +11,7 @@ dictionary = {
     "як справи": "идкуд",
     "погано": "хол",
     "добре": "іши",
-    "йди нахуй": "улва",
+    "йди нахуй": "улава",
     "підарас": "кул",
     "так": "шіл",
     "ні": "хіл",
@@ -89,4 +89,5 @@ bgButtons.forEach(btn => {
 translateBtn.addEventListener("click", translateText);
 clearBtn.addEventListener("click", clearText);
 toggleMusicBtn.addEventListener("click", toggleMusic);
+
 nextTrackBtn.addEventListener("click", nextTrack);
